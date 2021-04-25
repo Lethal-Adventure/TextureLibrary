@@ -1,2 +1,2 @@
-# TextureLibrary
+# Texture Library
 Mob texture library
